@@ -4,4 +4,4 @@
 
  https://amigoscode.com/courses/git-github
  
-![Copy of Copy of Copy of Copy of Copy of Untitled Design](https://user-images.githubusercontent.com/85935053/141316681-d45fe5c6-dc1c-4bdf-a772-8b413341d8fa.png)
+![изображение](https://user-images.githubusercontent.com/85935053/141322521-3db55362-ea2b-4f82-897d-e089c393defe.png)
