@@ -1,0 +1,29 @@
+[33mcommit ad49ac99b990829b026044fa146e03c3cdfde668[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: caffeineOverdrive <vitriol451@gmail.com>
+Date:   Thu Nov 11 14:16:07 2021 +0300
+
+    added main.go with empty main function
+
+[33mcommit 77efaff2f27b4de8b58083b1f3f3f4634e8b5b30[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: caffeineOverdrive <vitriol451@gmail.com>
+Date:   Wed Nov 10 16:32:14 2021 +0300
+
+    Deleted .index.js.swp
+
+[33mcommit 3e255d70f7a09454c2e975d9b72e97348b5a613a[m
+Author: caffeineOverdrive <vitriol451@gmail.com>
+Date:   Wed Nov 10 16:21:08 2021 +0300
+
+    added body{} in main.css
+
+[33mcommit 17c9e532ed5e5a6e20954893af1ee401c22c86b3[m
+Author: caffeineOverdrive <vitriol451@gmail.com>
+Date:   Wed Nov 10 16:09:22 2021 +0300
+
+    added console.log
+
+[33mcommit fdd4ff60b953dc3f30a05030acd1fd53d9202d27[m
+Author: caffeineOverdrive <vitriol451@gmail.com>
+Date:   Wed Nov 10 15:49:46 2021 +0300
+
+    bootstrap project
